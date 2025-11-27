@@ -1,0 +1,11 @@
+student_name = "Kyle M. Malabanan"
+student_address = "San Luis, Batangas"
+student_year = "3rd year"
+student_course = "Computer Engineering"
+
+print("Student Inormation:")
+print("Name     : " + student_name)
+print("Address  : " + student_address)
+print("Year     : " + student_year)
+print("Course   : " + student_course)
+
