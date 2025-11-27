@@ -9,6 +9,6 @@ print("Address  : " + student_address)
 print("Year     : " + student_year)
 print("Course   : " + student_course)
 
-print("HELLO WORDL")
+print("HELLO WORLD")
 print("FROM CPE3B")
 print("DEV KYLE")
